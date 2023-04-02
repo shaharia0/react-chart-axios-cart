@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Standard",
+    "price": 24.99,
+    "description": "Access to gym facilities during regular hours.",
+    "features": ["Cardio", "Weights", "Locker Room"]
+  },
+  {
+    "id": 2,
+    "name": "Premium",
+    "price": 39.99,
+    "description": "Access to gym facilities during regular hours, plus additional perks like personal training sessions.",
+    "features": ["All Equipment", "Weights", "Locker Room", "2 PT sessions", "Group Classes"]
+  },
+  {
+    "id": 3,
+    "name": "Elite",
+    "price": 69.99,
+    "description": "Access to gym facilities 24/7, unlimited personal training sessions, and other exclusive perks.",
+    "features": ["All Equipment", "Weights", "Locker Room", "Unlimited PT", "Group Classes", "Discounts", "Sauna/Steam", "Towel Service"]
+  },
+  {
+    "id": 4,
+    "name": "Family",
+    "price": 99.99,
+    "description": "Access to gym facilities during regular hours for up to four family members.",
+    "features": ["All Equipment", "Weights", "Locker Room", "Family Membership", "Kids' Play Area"]
+  },
+  {
+    "id": 5,
+    "name": "Corporate",
+    "price": 149.99,
+    "description": "Access to gym facilities during regular hours for up to 10 employees.",
+    "features": ["All Equipment", "Weights", "Locker Room", "Corporate Membership", "Private Meeting Room"]
+  }
+]
